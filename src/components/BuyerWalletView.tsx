@@ -38,10 +38,10 @@ export const BuyerWalletView: React.FC = () => {
   const [depositSuccess, setDepositSuccess] = useState<boolean>(false);
 
   const accountNumbers = {
-    bKash: '01788112233 (Personal)',
-    Nagad: '01977223344 (Personal)',
-    Rocket: '017881122338 (Personal)',
-    'Binance USDT': 'TNP18aKmZ8792hBsm8912800'
+    bKash: '01748247931 (Personal)',
+    Nagad: '01748247931 (Personal)',
+    Rocket: '01748247931 (Personal)',
+    'Binance USDT': 'soheltajbhola@gmail.com'
   };
 
   const copyToClipboard = (text: string) => {
