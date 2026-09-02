@@ -1,0 +1,6 @@
+{
+  "name": "Mail Factory - Email Marketplace",
+  "description": "মেইল ফ্যাক্টরি - বিশ্বস্ত জিমেইল ক্রয়-বিক্রয়, এক্সচেঞ্জ, পেমেন্ট ও মাইক্রো-আর্নিং মার্কেটপ্লেস",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
