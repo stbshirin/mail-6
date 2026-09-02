@@ -43,8 +43,8 @@ export const BuyerMarketplaceView: React.FC = () => {
   const [copiedNumber, setCopiedNumber] = useState<boolean>(false);
 
   const paymentNumbers = {
-    bkash: '01788112233',
-    nagad: '01977223344'
+    bkash: '01748247931',
+    nagad: '01748247931'
   };
 
   const filteredItems = marketplaceItems.filter(item => {
